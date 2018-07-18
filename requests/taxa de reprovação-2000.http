@@ -1,0 +1,3 @@
+// Request -> Taxa de reprovação 2000
+
+GET http://dados.fee.tche.br/ckan-download/fee-2000-mun-taxa-de-reprovacao-estadual-102566.csv

@@ -1,0 +1,3 @@
+// Request -> Taxa de reprovação 2004
+
+GET http://dados.fee.tche.br/ckan-download/fee-2004-mun-taxa-de-reprovacao-estadual-102566.csv

@@ -1,0 +1,3 @@
+// Request -> Taxa de reprovação 2012
+
+GET http://dados.fee.tche.br/ckan-download/fee-2012-mun-taxa-de-reprovacao-estadual-102566.csv
